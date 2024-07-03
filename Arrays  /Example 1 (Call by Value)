@@ -1,0 +1,18 @@
+class Myclass{
+public void math(int a)
+{
+System.out.println("BEFORE MODIFICATION " +a);
+a=a+1;
+System.out.println("AFTER MOFIFICATION "+a);
+}
+}
+public class main{
+public static void main(String [] args){
+int a=10;
+
+System.out.println("BEFORE MODIFICATION " +a);
+Myclass ob1= new Myclass ();
+ob1=meth(a);
+System.out.println("AFTER MOFIFICATION "+a);
+}
+}
