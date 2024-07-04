@@ -1,1 +1,21 @@
+STRING:-
 
+In java Sting is an object har Represents Collection of charrastems
+
+* String  is a predefined class  to create Sting object String is an  Immutable obejact 
+
+* unlike all the deta Monbers all the String  of will gets stored saparatly in sting constant  pool(scp)
+
+String constant pool in java  storage space in the  java memory Whare String are stared
+
+Shing constant pool in java in java is usually used to optimize the memory usage of String objects Instead of creating a new object Every time. bhal is used it improvet...
+
+The performance & redures the memory Untization.
+
+Creating of shings.
+
+① By Using Shing literals. String si: "Hello":
+
+By. Uring New. Keyword
+
+String s1= new String("Hello");
