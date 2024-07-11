@@ -1,0 +1,22 @@
+class 
+
+* class is A genaralized Name
+are collective Name for group of object which. Shares Common properties.
+
+Ex:- Student, Employe, car
+
+ class
+
+* class is consists of a set of objects
+
+* objects share a common Structure and behavior
+
+=> Obijed is on instance of the class.
+Only if the Attributes of the object holds the Valves
+
+             STUDENT 
+
+1. Athibute        Mehads
+2. ID              attend clost
+3. Name            take Exam
+4. Age             Obtain mark
