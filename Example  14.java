@@ -4,11 +4,11 @@ public class MonthName {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Prompt user to enter a number (1-12)
+     
         System.out.print("Enter a number (1-12) to get the corresponding month: ");
         int month = scanner.nextInt();
 
-        // Determine the month
+       
         switch (month) {
             case 1:
                 System.out.println("January");
