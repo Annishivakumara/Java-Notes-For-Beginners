@@ -4,11 +4,10 @@ public class GradeEvaluation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Prompt user to enter a grade
+        
         System.out.print("Enter your grade (A, B, C, D, F): ");
         char grade = scanner.next().charAt(0);
 
-        // Determine the evaluation
         switch (grade) {
             case 'A':
                 System.out.println("Excellent!");
