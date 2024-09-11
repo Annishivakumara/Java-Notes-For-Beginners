@@ -5,10 +5,10 @@ public class SortArray {
 
         int[] numbers = {3, 5, 1, 4, 2};
 
-        Arrays.sort(numbers);//method 
+        Arrays.sort(numbers);
 
         System.out.print("Sorted array: ");
-// for each loop  to intialize 
+
         for (int number : numbers) {
             System.out.print(number + " ");
         }
