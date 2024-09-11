@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//  Importing Package from java library
+
 public class MultiplicationTable {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
