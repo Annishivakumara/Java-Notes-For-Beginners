@@ -1,4 +1,4 @@
-   #Declation And Intialization 
+
 1    First Approch
 public class main
 {
