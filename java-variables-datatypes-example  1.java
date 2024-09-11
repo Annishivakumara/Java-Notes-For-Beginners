@@ -1,24 +1,24 @@
 public class Main {
     public static void main(String[] args) {
-        // Define variables with different data types
+      
         String name = "Alice";
         int age = 30;
         double height = 165.5;
         boolean isStudent = true;
 
-        // Print out the values and types of these variables
+    
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Height: " + height);
         System.out.println("Is Student: " + isStudent);
 
-        // Update the value of a variable
+
         age = 31;
 
-        // Print the updated age
+
         System.out.println("Updated Age: " + age);
 
-        // Perform a calculation using variables
+ 
         int birthYear = 2024 - age;
         System.out.println("Birth Year: " + birthYear);
     }
