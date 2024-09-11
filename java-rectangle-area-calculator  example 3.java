@@ -4,17 +4,16 @@ public class RectangleAreaCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        //  user to enter length and width of the rectangle
         System.out.print("Enter length of the rectangle: ");
         double length = scanner.nextDouble();
 
         System.out.println("Enter width of the rectangle: ");
         double width = scanner.nextDouble();
 
-        // Calculate area of the rectangle
+        
         double area = length * width;
 
-        // Display the calculated area
+     
         System.out.println("\n Area of the rectangle with length " + length + " and width  " + width + " is! " + area);
 
     
