@@ -21,6 +21,3 @@ System.out.println("avarge"+avg);
 }
 }
 }
-
-output :-
-100 
