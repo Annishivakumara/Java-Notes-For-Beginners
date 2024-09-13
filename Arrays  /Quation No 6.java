@@ -8,17 +8,17 @@ Scanner sc= new Scanner(System.in);
         int[] array2 =  new int [size];
         int[] merged = new int[array1.length + array2.length];
 
-// array 1 intilization
+
         for (int i = 0; i < array1.length; i++) {
             merged[i] = array1[i];
         }
 
-// array 2 intilization
+
         for (int i = 0; i < array2.length; i++) {
             merged[array1.length + i] = array2[i];
         }
 
-//  Condition checking
+
         System.out.print("Merged array: ");
         for (int number : merged) {
             System.out.print(number + " ");
