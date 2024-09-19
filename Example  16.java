@@ -4,11 +4,10 @@ public class SeasonDetermination {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Prompt user to enter a month number (1-12)
+       
         System.out.print("Enter a month number (1-12) to determine the season: ");
         int month = scanner.nextInt();
 
-        // Determine the season
         switch (month) {
             case 12:
             case 1:
