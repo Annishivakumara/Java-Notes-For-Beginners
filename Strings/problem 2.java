@@ -7,3 +7,4 @@ public class StringLength
         System.out.println("Length of the string: " + length);
     }
 }
+
